@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "repository": {
         "type": "git",
-        "url": "https://code.libcast.net/libcast/html5player.git"
+        "url": "https://github.com/bricev/array-foreach.git"
     },
     "devDependencies": {
         "grunt": "~0.4.1",
