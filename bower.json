@@ -1,0 +1,29 @@
+{
+    "name": "array-foreach",
+    "version": "1.0.0",
+    "authors": [
+        "Brice Vercoustre <brice@libcast.com>"
+    ],
+    "description": "Array.prototype.forEach polyfill",
+    "moduleType": [
+        "globals"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/bricev/array-foreach.git"
+    },
+    "keywords": [
+        "polyfill",
+        "forEach"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**",
+        "!/build/",
+        "!/bower.json",
+        "!/README.md"
+    ],
+    "main": [
+        "./build/polyfill.Array.forEach.min.js"
+    ]
+}
