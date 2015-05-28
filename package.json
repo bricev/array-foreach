@@ -1,0 +1,14 @@
+{
+    "name": "array-foreach",
+    "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://code.libcast.net/libcast/html5player.git"
+    },
+    "devDependencies": {
+        "grunt": "~0.4.1",
+        "grunt-remove-logging": "~0.2.0",
+        "grunt-contrib-uglify": "~0.2.2",
+        "grunt-contrib-clean": "~0.6.0"
+    }
+}
